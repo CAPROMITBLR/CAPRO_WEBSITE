@@ -5,7 +5,7 @@ Manipal Institute of Technology (MIT) Bengaluru.
 
 > *To build impactful software solutions while creating experiential learning opportunities.*
 
-**Live site:** _add the Vercel link here once deployed_
+**Live site:** (https://caprowebsite.vercel.app)
 
 ---
 
